@@ -1,4 +1,58 @@
 baseURL = 'https://michaels-research-notebook.netlify.app/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'anubis'
+languageCode = "en-us"
+title = "Michael Abraham"
+theme = "anubis"
+paginate = 3
+
+disqusShortname = ""
+googleAnalytics = ""
+
+[author]
+name = "Michael Abraham"
+
+[params]
+author = "Michael Abraham"
+description = "Anubis is a simple minimalist theme for Hugo blog engine."
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+style = "auto"
+readMore = false
+readNextPosts = 2
+copyCodeButton = true
+rssAsSocialIcon = true
+
+# Graphcomment support
+graphcommentId = ""
+
+# utteranc.es support
+utterancesRepo = ""  # mandatory
+utterancesTheme = "" # optional
+utterancesIssue = "" # optional
+utterancesLabel = "" # optional
+
+[menu]
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 2
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[markup.goldmark.renderer]
+unsafe = true

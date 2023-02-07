@@ -1,0 +1,7 @@
+---
+title: Research Idea
+date: 2023-02-02T11:11:26-5:00
+---
+
+Introduction: Since I am planning to do a COMP that combines both my majors, my ideas of what to focus on has been grammar and programming. This idea has led me to learning about Linting. Linting is the process of reading through a file and highlighting changes that need to be made, or making those changes in order to produce something that follows a certain standard. This is typically done when it comes to coding, however I want to change the concept up and try to develop it when it comes to writing. I feel as though the need for presentable writing is quite important since we are developing computer scientists who will need to be able to speak for our skills and what we are doing in order to interact with one another, so having a set of rules for something like a project is necessary. In getting into this area I was able to discover a program that did exactly as envisioned. The program is called Proselint and it is a linter that edits things related to grammar in code blocks. The program works by giving advice on things like variables, or reports and gives hints on possible edits that can be made. This can include making something less specific, making it more specific, using different words based on the context, etc.. I plan to explore this program and use it as a baseline for my own linter that does essentially the same thing. The only difference will be the context in which I will be using it in.
+    
