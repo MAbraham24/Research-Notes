@@ -1,5 +1,5 @@
 ---
 title: Feasibility
-date: 2023-03-15T08:57:27:-5:00
+date: 2023-03-15T08:57:27-5:00
 ---
 The development of my project has been going quite well as I was able to find more resources that can aid me in finding out the feasibility of my project. From what I have found I can say that my project is quite feasible based on the parts that make up the whole of my project. I will be able to do things like developing a pip install plugin that others can use, use natural language processing in order to look through technical writing, and create a style for the processor to follow through and critique accordingly. Knowing this information allows me to ascertain that my project is in fact feasible. What enhances my confidence greatly has to be the previous senior project I looked into. It was related to Natural Language Processing and how it is used as writing aides, and the senior who had produced it doubted that it was really helpful. However, his research actually proved him wrong, and he learned that writing aides were actually quite accurate in editing. This article was from the early 2000s meaning that Natural Language Processing has only improved from the date of the original project. I believe that I will definitely be able to show that improvement through the development of my project.
